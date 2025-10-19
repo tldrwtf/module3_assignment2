@@ -1,7 +1,4 @@
-# Lesson 4: Functional Programming
-# Task 1: Lambda Functions with Movie Data
-# Scenario
-# You're building a movie recommendation system and need to process movie data using lambda functions.
+
 
 # Import colorama for colorful output
 from colorama import init, Fore, Back, Style
